@@ -1,0 +1,27 @@
+{
+  "name": "wanted-pre-onboarding-challenge-fe-2",
+  "version": "1.0.0",
+  "description": "원티드 프리온보딩 FE 챌린지 2차 (TypeScript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc": "jsdoc -c jsdoc.config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JIYEONGYANGdev/wanted-pre-onboarding-challenge-fe-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JIYEONGYANGdev/wanted-pre-onboarding-challenge-fe-2/issues"
+  },
+  "homepage": "https://github.com/JIYEONGYANGdev/wanted-pre-onboarding-challenge-fe-2#readme",
+  "devDependencies": {
+    "jsdoc": "^3.6.11"
+  },
+  "dependencies": {
+    "typescript": "^4.8.2"
+  }
+}
