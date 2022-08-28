@@ -1,8 +1,8 @@
-# ToDo App
+## ToDo App
 
-## by JIYEONGYANGdev
+원티드 프론트엔드 프리온보딩 챌린지 by JIYEONGYANGdev
 
-> 원티드 프론트엔드 프리온보딩 챌린지
+[jiyeongyangdev.github.io](https://jiyeongyangdev.github.io/wanted-pre-onboarding-challenge-fe-2/)
 
 <hr/>
 <br/>
