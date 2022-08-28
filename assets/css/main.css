@@ -2913,7 +2913,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		padding: 9em 0 9em 0 ;
+		padding: 4em 0 4em 0 ;
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed;
@@ -3018,7 +3018,7 @@ input, select, textarea {
 			-webkit-justify-content: center;
 			-ms-justify-content: center;
 			justify-content: center;
-			margin-top: 2.5em;
+			margin-top: 3.2em;
 			margin-left: 0;
 			position: relative;
 		}
@@ -3056,10 +3056,10 @@ input, select, textarea {
 		}
 
 			#header .inner .actions {
-				-moz-transition: -moz-transform 1.25s ease;
-				-webkit-transition: -webkit-transform 1.25s ease;
-				-ms-transition: -ms-transform 1.25s ease;
-				transition: transform 1.25s ease;
+				-moz-transition: -moz-transform 0.85s ease;
+				-webkit-transition: -webkit-transform 0.85s ease;
+				-ms-transition: -ms-transform 0.85s ease;
+				transition: transform 0.85s ease;
 				-moz-transition-delay: 1s;
 				-webkit-transition-delay: 1s;
 				-ms-transition-delay: 1s;
